@@ -72,7 +72,7 @@ button {
 
 .sectionTwo {
     text-align: center;
-    padding: 30px;
+    padding: 40px;
 }
 
 .titleTwo {
@@ -85,14 +85,57 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 40px;
+    gap: 60px;
 }
 
 .subcontent {
     width: 200px;
+    padding-bottom: 50px;
 }
 
 .img1 {
     height: 150px;
     width: 180px;
+}
+
+.sectionThree {
+    background-color: #e5e7eb;
+    padding: 100px 200px;
+}
+
+.cita {
+    font-size: 30px;
+    font-style: italic;
+}
+
+.thorXD {
+    font-size: 30px;
+    font-weight: 900;
+    text-align: end;
+}
+
+.sectionFour {
+    background-color: rgb(56, 147, 221);
+    margin: 100px 130px;
+    padding: 40px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contenedorTexto {
+    color: white;
+}
+
+.titleThree {
+    font-size: 30px;
+}
+
+.signUpMessage {
+    font-size: 20px;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    color: white;
 }
